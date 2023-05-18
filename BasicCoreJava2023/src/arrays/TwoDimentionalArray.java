@@ -15,7 +15,7 @@ public class TwoDimentionalArray {
 			 {
 				System.out.print(data[r][c]+" ");
 			}
-			    System.out.println();
+			    System.out.println() ;
 		}
 	}
 
