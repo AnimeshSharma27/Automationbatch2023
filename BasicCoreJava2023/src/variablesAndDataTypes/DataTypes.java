@@ -1,3 +1,4 @@
+
 package variablesAndDataTypes;
 
 public class DataTypes {
@@ -11,6 +12,7 @@ public class DataTypes {
 		double height = 5.8;
 		
 		System.out.println(age);
+		
 		System.out.println(name);
 		System.out.println(height);
 		System.out.println(marritalStatus);

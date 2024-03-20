@@ -29,6 +29,13 @@ public class Car {
       {  
     	  //Initialization
     	  this.colour=colour;  ///this always point to instance variable 
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
+    	  
     	  this.type=type;
     	  this.fuelType=fuelType;
       }
